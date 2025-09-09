@@ -6,8 +6,8 @@ API desenvolvida em Node.js + TypeScript para gerenciar tarefas (tasks), seguind
 
 1. Clonar o repositório:
    ```bash
-   git clone web-2-atividade-01
-   cd atividade-01
+   git clone web2-atividade01
+   cd web2-atividade01
 
 2. Instalar as dependências:
    ```
