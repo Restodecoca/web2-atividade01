@@ -6,7 +6,7 @@ API desenvolvida em Node.js + TypeScript para gerenciar tarefas (tasks), seguind
 
 1. Clonar o repositório:
    ```bash
-   git clone web2-atividade01
+   git clone https://github.com/Restodecoca/web2-atividade01
    cd web2-atividade01
 
 2. Instalar as dependências:
